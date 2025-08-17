@@ -2,7 +2,7 @@
 // Frequency Counter Lib example
 /*
   Martin Nawrath KHM LAB3
-  Kunsthochschule fÂ¸r Medien KË†ln
+  Kunsthochschule für Medien Köln
   Academy of Media Arts
   http://www.khm.de
   https://interface.khm.de/index.php/lab/interfaces-advanced/arduino-frequency-counter-library/index.html
